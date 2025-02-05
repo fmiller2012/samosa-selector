@@ -29,7 +29,7 @@ const App = () => {
     <div className = "App">
       <h1> Samosa Selector </h1>
       <h2> Count: {count}</h2>
-      <img className = "samosa" src = "samosa-selector/samosa.png" onClick = {updateCount} />  
+      <img className = "samosa" src = "/samosa-selector/samosa.png" onClick = {updateCount} />  
       <div className = "container">
         <div className = "upgrade">
           <h3>Double Stuffed 👯‍♀️</h3>
